@@ -7,12 +7,13 @@
     --title-decor-bg: #FF8DCB;
     --title-decor-text: #353430;
     --link-color: #353430;
-    --link-shadow: 1px 1px 0 #353430;
+    --link-shadow: 2px 2px 0 #353430;
     --section-title-color: #FFC2E6;
     --rec-color: transparent;
     --decor-color: #353430;
     --button-border-hover: rgba(50, 49, 45, 0.4);
     --button-border-focus: #353430;
+    --title-color: #353430;
 }
 
 .theme-light .decorated-zone-rec {
@@ -28,12 +29,13 @@
         --title-decor-bg: #FF8DCB;
         --title-decor-text: #353430;
         --link-color: #353430;
-        --link-shadow: 1px 1px 0 #353430;
+        --link-shadow: 2px 2px 0 #353430;
         --section-title-color: #FFC2E6;
         --rec-color: transparent;
         --decor-color: #353430;
         --button-border-hover: rgba(50, 49, 45, 0.4);
         --button-border-focus: #353430;
+        --title-color: #353430;
     }
 
     .decorated-zone-rec {

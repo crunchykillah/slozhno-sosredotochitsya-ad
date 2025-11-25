@@ -2,10 +2,10 @@
 :root {
     --main-font: 'IBM Plex Mono', monospace;
     --font-size: 18px;
-    --line-height: 23.4px; /* 130% */
+    --line-height: 23.4px;
     --bg-color: #000028;
     --bg-image: url(../images/cover-image-dark.png);
-    --main-text-color: #FFFFFF;
+    --main-text-color: #F1B2CE;
     --accent-color: #FF0070;
     --decor-color: #FF0070;
     --title-decor-bg: #FF0070;
@@ -16,6 +16,7 @@
     --rec-color: #FF0070;
     --button-border-hover: rgba(255, 0, 112, 0.4);
     --button-border-focus: var(--main-text-color);
+    --title-color: #DB00FF;
     --corner-size: 10px;
 }
 

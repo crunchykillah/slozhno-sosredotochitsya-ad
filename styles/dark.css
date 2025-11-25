@@ -2,7 +2,7 @@
 :root.theme-dark {
     --bg-color: #000028;
     --bg-image: url(../images/cover-image-dark.png);
-    --main-text-color: #FFFFFF;
+    --main-text-color: #F1B2CE;
     --accent-color: #FF0070;
     --title-decor-bg: #FF0070;
     --title-decor-text: #000028;
@@ -12,7 +12,8 @@
     --rec-color: #FF0070;
     --decor-color: #FF0070;
     --button-border-hover: rgba(255, 0, 112, 0.4);
-    --button-border-focus: #FFFFFF;
+    --button-border-focus: #F1B2CE;
+    --title-color: #DB00FF;
 }
 
 .theme-dark .decorated-zone-rec {
